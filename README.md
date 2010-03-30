@@ -65,4 +65,4 @@ Breakfast:
 Bars:
 
 * Gestalt Haus (veggy sausages)
-* Zeitgeist (Veggy burger, cheese tomales)
+* Zeitgeist (Veggy burger, cheese tamales)
