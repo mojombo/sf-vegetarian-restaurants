@@ -46,7 +46,7 @@ Vietnamese:
 
 Burgers and Fries:
 
-* Barney's Gourmet Hamburger (big selection of awesome veggie burgers. get the curly fries and a shake to round it out!) 
+* Barney's Gourmet Hamburger (big selection of awesome veggie burgers. get the curly fries and a turkish coffee shake to round it out!) 
 
 Pizza:
 
@@ -58,3 +58,6 @@ Breakfast:
 
 * Tartine (super famous bakery. try the morning buns!)
 * Mama's (holy crap so amazing, get here if you can!)
+
+Fancy:
+* Millennium - Vegan. Fantastic use of fungi
