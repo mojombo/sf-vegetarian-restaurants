@@ -9,6 +9,7 @@ Sandwiches
 * Toaster Oven (Potbelly's clone)
 * Freddie's Sandwiches (in north beach if you don't want to go all the way to, or wait in the line at, Ike's; get the jalapeno spread)
 * Rhea's Deli (Great seitan BBQ Chicken sandwhich, and cheese sandwhiches of the highest quality)
+* Love n Haight (lots of veggie meat options and open late)
 
 Mexican
 -------
@@ -86,6 +87,7 @@ Breakfast
 * Butler and the Chef (Veggie Eggs Benedict rules)
 * Dottie's (black bean cakes, zucchini cakes are good additions to the standard brunch fare)
 * Fatoush (the perfect brunch spot, especially on their back patio when it's nice out)
+* Pork Store Cafe (veggie brunch stuff including vegan option)
 
 New American
 ------------
@@ -98,9 +100,21 @@ Bars
 
 * Gestalt Haus (veggie sausages)
 * Zeitgeist (Veggie burger, cheese tamales)
+<<<<<<< HEAD
 
 Uncategorized
 ----
 
 * Samovar
 * Herbivore
+=======
+* Monk's Kettle (house vegan chilli, house? veggie burgers, giant pretzels!)
+* Beretta (veg/vegan pizza options and plenty of other veg friendly dishes)
+
+Ice Cream!
+---------------
+* Bi-rite Creamery (right next to the park and they offer 2 or 3 vegan options usually)
+* Humphrey Slocombe
+* Maggie Mudd's (best vegan ice cream pretty much ever)
+* Mitchell's 
+>>>>>>> xkickflip/master
