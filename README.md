@@ -19,12 +19,15 @@ Mexican
 * Taqueria Cancún (classic mission burrito; open till 2am on fri/sat, 1am other days, I think)
 * Weird Fish (seitan tacos and sweet potato fries. yum!)
 * Gracias Madre (Vegan mexican food)
+* La Palma Mexicatessen (fresh hand-made tortillas)
+* El Tonayense (amazing southwestern grilled veggie burrito. There may be gristle, but it's amazing.)
 
 Sushi
 -----
 
 * Tsunami (awesomest veggie rolls and sake selection)
 * Chaya (all vegan japanese and sushi)
+* Minako (huge veggie & vegan menu, home-style japanese)
 
 Ethiopian
 ---------
@@ -39,6 +42,7 @@ Thai
 * Tara (not too busy usually, great Pad Ke Mao)
 * Tuk Tuk Cafe (cheap and good veggie options)
 * Thep Phanom
+* Dara Thai-Lao (plenty of options, Lao is less sweet than Thai)
 
 Chinese
 -------
@@ -46,6 +50,7 @@ Chinese
 * Yum Yum Hunan (get the Veggie Potstickers, General Tso Meatless Chicken, and Szechuan String Bean. Order outside of this selection at your own peril)
 * Golden Era (excellent selection of seitan fake meat dishes)
 * Big Lantern (Good selection of seiten fake meat)
+* Jasmine Tea House (veggie meats)
 
 Indian(ish)
 -----------
@@ -53,6 +58,7 @@ Indian(ish)
 * Pakwan (amazing Paneer Tika Masala, and many other veggie dishes)
 * Udupi Palace (all vegetarian south indian)
 * Kasa (indian food wraps. sounds weird; tastes good!; several locations)
+* Vik's Chaat (all veg south indian. amazing and authentic. check hours.)
 
 Burmese
 -------
@@ -75,6 +81,12 @@ Burgers and Fries
 * Barney's Gourmet Hamburger (big selection of awesome veggie burgers. get the curly fries and a turkish coffee shake to round it out!) 
 * Metro Cafe (Veggie Burgers & Cheese Steaks)
 
+German
+------
+
+* Suppenküche (not tons of veggie options, but they're all great, especially brunch)
+* Rosamunde Sausage Grill (tofurky sausage next to Toronado)
+
 Pizza
 -----
 
@@ -85,6 +97,7 @@ Pizza
 * South Beach Cafe
 * Tony's Pizza Napoletana
 * Zero Zero (when it opens later this year. i'm assuming it'll be awesome because Picco's in Sausalito is awesome)
+* Pauline's
 
 Breakfast
 ---------
@@ -95,12 +108,20 @@ Breakfast
 * Dottie's (black bean cakes, zucchini cakes are good additions to the standard brunch fare)
 * Fatoush (the perfect brunch spot, especially on their back patio when it's nice out)
 * Pork Store Cafe (veggie brunch stuff including vegan option)
+* Mission Beach Cafe (daily brunch, great vegetarian options)
+* St Francis Fountain (diner-style breakfast / brunch, lots of veg options)
+* Boogaloo's (hipster delight, tofu scram)
 
 New American
 ------------
 * Greens
 * Millennium (Vegan. Fantastic use of fungi)
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
+* Cafe Gratitude (vegan raw food - [much] better than you'd expect)
+
+Italian
+-------
+* Emmy's Spaghetti Shack (wait in the bar next door)
 
 Bars
 ----
@@ -121,3 +142,4 @@ Ice Cream!
 * Humphrey Slocombe (bourbon and corn flake ice cream = secret breakfast!)
 * Maggie Mudd's (best vegan ice cream pretty much ever)
 * Mitchell's (ice cream the way you remember it from your childhood. tons of flavors)
+* Xanath Ice Cream (from the people who brought you the yellow gate that never opens, but smells of saffron and vanilla)
