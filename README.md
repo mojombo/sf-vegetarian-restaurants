@@ -67,3 +67,5 @@ Breakfast:
 
 * Tartine (super famous bakery. try the morning buns!)
 * Mama's (holy crap so amazing, get here if you can!)
+* Butler and the Chef (Veggie Eggs Benedict rules)
+* Dottie's (black bean cakes, zucchini cakes are good additions to the standard brunch fare)
