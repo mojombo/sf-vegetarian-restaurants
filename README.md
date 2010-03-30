@@ -58,6 +58,10 @@ Pizza:
 * Marcellos (best thin crust)
 * Golden Boy (thick crust, good during a night of drinking up in North Beach)
 * Patxi's Pizza (best chicago style deep dish in the city)
+* Flour + Water
+* South Beach Cafe
+* Tony's Pizza Napoletana
+* Zero Zero (when it opens later this year. i'm assuming it'll be awesome because Picco's in Sausalito is awesome)
 
 Breakfast:
 
