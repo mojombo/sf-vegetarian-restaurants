@@ -39,8 +39,11 @@ Indian(ish):
 
 * Pakwan (amazing Paneer Tika Masala, and many other veggie dishes)
 * Udupi Palace (all vegetarian south indian)
-* Burma Superstar (get the samosa soup and rainbow salad. it'll blow your mind)
 * Kasa (indian food wraps. sounds weird; tastes good!; several locations)
+
+Burmese:
+
+* Burma Superstar (get the samosa soup and rainbow salad. it'll blow your mind)
 
 Vietnamese:
 
