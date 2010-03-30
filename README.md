@@ -60,6 +60,7 @@ Vietnamese
 ----------
 
 * Sunflower (the best lunch special around. delicious soup and egg rolls)
+* Slanted Door ( The Lemongrass Tofu is so good that it was all I ordered there for years. )
 
 Burgers and Fries
 -----------------
@@ -91,7 +92,6 @@ New American
 * Greens
 * Millennium - Vegan. Fantastic use of fungi
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
-* Slanted Door ( The Lemongrass Tofu is so good that it was all I ordered there for years. )
 
 Bars
 ----
