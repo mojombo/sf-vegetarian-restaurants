@@ -81,3 +81,4 @@ Breakfast
 * Mama's (holy crap so amazing, get here if you can!)
 * Butler and the Chef (Veggie Eggs Benedict rules)
 * Dottie's (black bean cakes, zucchini cakes are good additions to the standard brunch fare)
+* Fatoush (the perfect brunch spot, especially on their back patio when it's nice out)
