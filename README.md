@@ -6,6 +6,7 @@ Sandwiches:
 * Jay's Cheesesteaks (many seitan flavors)
 * Ike's Place (tons of amazing veggie sandwiches)
 * Toaster Oven (Potbelly's clone)
+* Rhea's Deli (Great seitan BBQ Chicken sandwhich, and cheese sandwhiches of the highest quality)
 
 Mexican:
 
@@ -13,6 +14,7 @@ Mexican:
 * El Buen Sabor (my favorite super veggie burrito)
 * Taqueria Cancún (classic mission burrito; open till 2am on fri/sat, 1am other days, I think)
 * Weird Fish (seitan tacos and sweet potato fries. yum!)
+* Gracias Madre (Vegan mexican food)
 
 Sushi:
 
@@ -32,6 +34,7 @@ Chinese:
 
 * Yum Yum Hunan (get the Veggie Potstickers, General Tso Meatless Chicken, and Szechuan String Bean. Order outside of this selection at your own peril)
 * Golden Era (excellent selection of seitan fake meat dishes)
+* Big Lantern (Good selection of seiten fake meat)
 
 Indian(ish):
 
@@ -58,3 +61,8 @@ Breakfast:
 
 * Tartine (super famous bakery. try the morning buns!)
 * Mama's (holy crap so amazing, get here if you can!)
+
+Bars:
+
+* Gestalt Haus (veggy sausages)
+* Zeitgeist (Veggy burger, cheese tomales)
