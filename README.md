@@ -96,3 +96,9 @@ Bars
 
 * Gestalt Haus (veggie sausages)
 * Zeitgeist (Veggie burger, cheese tamales)
+
+Uncategorized
+----
+
+* Samovar
+* Herbivore
