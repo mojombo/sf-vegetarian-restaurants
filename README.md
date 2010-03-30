@@ -86,10 +86,11 @@ Breakfast
 * Dottie's (black bean cakes, zucchini cakes are good additions to the standard brunch fare)
 * Fatoush (the perfect brunch spot, especially on their back patio when it's nice out)
 
-Fancy
------
+New American
+------------
 * Greens
 * Millennium - Vegan. Fantastic use of fungi
+* Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
 
 Bars
 ----
