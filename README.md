@@ -30,6 +30,7 @@ Ethiopian
 ---------
 
 * Cafe Ethiopia (Veggie combo with #13, #16, #19, and a full order of #23)
+* Axum Cafe
 
 Thai
 ----
@@ -37,6 +38,7 @@ Thai
 * OSHA (Tom Ka and Veggie Spring Rolls are to die for)
 * Tara (not too busy usually, great Pad Ke Mao)
 * Tuk Tuk Cafe (cheap and good veggie options)
+* Thep Phanom
 
 Chinese
 -------
@@ -63,10 +65,15 @@ Vietnamese
 * Sunflower (the best lunch special around. delicious soup and egg rolls)
 * Slanted Door ( The Lemongrass Tofu is so good that it was all I ordered there for years. )
 
+Cambodian
+---------
+* Angkor Borei
+
 Burgers and Fries
 -----------------
 
 * Barney's Gourmet Hamburger (big selection of awesome veggie burgers. get the curly fries and a turkish coffee shake to round it out!) 
+* Metro Cafe (Veggie Burgers & Cheese Steaks)
 
 Pizza
 -----
