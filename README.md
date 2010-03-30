@@ -8,6 +8,7 @@ Sandwiches
 * Ike's Place (tons of amazing veggie sandwiches)
 * Toaster Oven (Potbelly's clone)
 * Freddie's Sandwiches (in north beach if you don't want to go all the way to, or wait in the line at, Ike's; get the jalapeno spread)
+* Rhea's Deli (Great seitan BBQ Chicken sandwhich, and cheese sandwhiches of the highest quality)
 
 Mexican
 -------
@@ -16,6 +17,7 @@ Mexican
 * El Buen Sabor (my favorite super veggie burrito)
 * Taqueria Cancún (classic mission burrito; open till 2am on fri/sat, 1am other days, I think)
 * Weird Fish (seitan tacos and sweet potato fries. yum!)
+* Gracias Madre (Vegan mexican food)
 
 Sushi
 -----
@@ -40,6 +42,7 @@ Chinese
 
 * Yum Yum Hunan (get the Veggie Potstickers, General Tso Meatless Chicken, and Szechuan String Bean. Order outside of this selection at your own peril)
 * Golden Era (excellent selection of seitan fake meat dishes)
+* Big Lantern (Good selection of seiten fake meat)
 
 Indian(ish)
 -----------
@@ -84,6 +87,12 @@ Breakfast
 * Fatoush (the perfect brunch spot, especially on their back patio when it's nice out)
 
 Fancy
----------
+-----
 * Greens
 * Millennium - Vegan. Fantastic use of fungi
+
+Bars
+----
+
+* Gestalt Haus (veggie sausages)
+* Zeitgeist (Veggie burger, cheese tamales)
