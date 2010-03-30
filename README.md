@@ -92,7 +92,7 @@ Breakfast
 New American
 ------------
 * Greens
-* Millennium - Vegan. Fantastic use of fungi
+* Millennium (Vegan. Fantastic use of fungi)
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
 
 Bars
@@ -100,21 +100,17 @@ Bars
 
 * Gestalt Haus (veggie sausages)
 * Zeitgeist (Veggie burger, cheese tamales)
-<<<<<<< HEAD
-
-Uncategorized
-----
-
-* Samovar
-* Herbivore
-=======
 * Monk's Kettle (house vegan chilli, house? veggie burgers, giant pretzels!)
 * Beretta (veg/vegan pizza options and plenty of other veg friendly dishes)
 
+Wine and Tea Bars
+-----------------
+
+* Samovar (enjoy an exotic kettle of tea made by professions. grab a snack too)
+
 Ice Cream!
----------------
+----------
 * Bi-rite Creamery (right next to the park and they offer 2 or 3 vegan options usually)
-* Humphrey Slocombe
+* Humphrey Slocombe (bourbon and corn flake ice cream = secret breakfast!)
 * Maggie Mudd's (best vegan ice cream pretty much ever)
-* Mitchell's 
->>>>>>> xkickflip/master
+* Mitchell's (ice cream the way you remember it from your childhood. tons of flavors)
