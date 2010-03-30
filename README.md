@@ -89,7 +89,8 @@ Breakfast
 Fancy
 -----
 * Greens
-* Millennium - Vegan. Fantastic use of fungi
+* Millennium (All vegan. Fantastic use of fungi)
+* Slanted Door ( The Lemongrass Tofu is so good that it was all I ordered there for years. )
 
 Bars
 ----
