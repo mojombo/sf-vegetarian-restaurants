@@ -28,6 +28,7 @@ Thai:
 
 * OSHA (Tom Ka and Veggie Spring Rolls are to die for)
 * Tara (not too busy usually, great Pad Ke Mao)
+* Tuk Tuk Cafe (cheap and good veggie options)
 
 Chinese:
 
