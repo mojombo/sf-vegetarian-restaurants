@@ -11,12 +11,17 @@ Mexican:
 
 * Papalote (their house salsa is the best IN THE WORLD)
 * El Buen Sabor (my favorite super veggie burrito)
-* Taqueria CancÃºn (classic mission burrito; open till 2am on fri/sat, 1am other days, I think)
+* Taqueria Cancún (classic mission burrito; open till 2am on fri/sat, 1am other days, I think)
+* Weird Fish (seitan tacos and sweet potato fries. yum!)
 
 Sushi:
 
 * Tsunami (awesomest veggie rolls and sake selection)
 * Chaya (all vegan japanese and sushi)
+
+Ethiopian:
+
+* Cafe Ethiopia (Veggie combo with #13, #16, #19, and a full order of #23)
 
 Thai:
 
