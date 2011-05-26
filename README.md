@@ -51,6 +51,7 @@ Chinese
 * Golden Era (excellent selection of seitan fake meat dishes)
 * Big Lantern (Good selection of seiten fake meat)
 * Jasmine Tea House (veggie meats)
+* Shangri-La Chinese Vegetarian (all vegan. has medicinal dishes, too)
 
 Indian(ish)
 -----------
