@@ -145,3 +145,7 @@ Ice Cream!
 * Maggie Mudd's (best vegan ice cream pretty much ever)
 * Mitchell's (ice cream the way you remember it from your childhood. tons of flavors)
 * Xanath Ice Cream (from the people who brought you the yellow gate that never opens, but smells of saffron and vanilla)
+
+Misc
+----
+* Ananda-Fuara, Market and 9th. Never been there, but it's a vegetarian restaurant.
