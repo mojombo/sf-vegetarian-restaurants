@@ -29,6 +29,7 @@ Sushi
 * Tsunami (awesomest veggie rolls and sake selection)
 * Chaya (all vegan japanese and sushi)
 * Minako (huge veggie & vegan menu, home-style japanese)
+* Ryoko (not all veggie, but the ones they have are the best)
 
 Ethiopian
 ---------
@@ -117,15 +118,24 @@ Breakfast
 
 New American
 ------------
+
 * Greens
 * Millennium (Vegan. Fantastic use of fungi)
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
 * Cafe Gratitude (vegan raw food - [much] better than you'd expect)
+* Herbivore (a bit pricey, but delicious)
+* Loving Hut (vegan chain)
 
 Italian
 -------
+
 * Emmy's Spaghetti Shack (wait in the bar next door)
 
+Mediterranean
+-------------
+
+* Truly Mediterranean (great falafels)
+ 
 Bars
 ----
 
@@ -141,6 +151,7 @@ Wine and Tea Bars
 
 Ice Cream!
 ----------
+
 * Bi-rite Creamery (right next to the park and they offer 2 or 3 vegan options usually)
 * Humphrey Slocombe (bourbon and corn flake ice cream = secret breakfast!)
 * Maggie Mudd's (best vegan ice cream pretty much ever)
@@ -149,4 +160,5 @@ Ice Cream!
 
 Misc
 ----
+
 * Ananda-Fuara, Market and 9th. Never been there, but it's a vegetarian restaurant.
