@@ -124,6 +124,7 @@ New American
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
 * Cafe Gratitude (vegan raw food - [much] better than you'd expect)
 * Herbivore (a bit pricey, but delicious)
+* Loving Hut (vegan chain)
 
 Italian
 -------
