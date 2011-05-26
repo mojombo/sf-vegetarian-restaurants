@@ -135,6 +135,11 @@ Mediterranean
 -------------
 
 * Truly Mediterranean (great falafels)
+
+Creole / Cajun
+--------------
+
+* Easy Creole (pop up, Wednesday and Friday nights, awesome etouffee, easycreole.com)
  
 Bars
 ----
