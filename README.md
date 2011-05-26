@@ -59,6 +59,7 @@ Indian(ish)
 * Udupi Palace (all vegetarian south indian)
 * Kasa (indian food wraps. sounds weird; tastes good!; several locations)
 * Vik's Chaat (all veg south indian. amazing and authentic. check hours.)
+* Dosa (high-ish-end south indian. vegetarian-friendly. mission location more relaxed than fillmore.)
 
 Burmese
 -------
