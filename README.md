@@ -118,7 +118,7 @@ New American
 * Millennium (Vegan. Fantastic use of fungi)
 * Restaurant Gary Danko (if you ask for it beforehand, they have an amazing vegetarian prix fixe menu)
 * Cafe Gratitude (vegan raw food - [much] better than you'd expect)
-* [Outerlands](http://outerlandssf.com/)
+* Outerlands (Menu changes every day, but they always have their incredible bread)
 
 Italian
 -------
