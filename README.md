@@ -30,7 +30,7 @@ Sushi
 * Chaya (all vegan japanese and sushi)
 * Minako (huge veggie & vegan menu, home-style japanese)
 * Ryoko (not all veggie, but the ones they have are the best)
-* Takara (mostly not veggie, but the veggie options are amazing -- and sustainable)
+* Tatake (mostly not veggie, but the veggie options are amazing -- and sustainable)
 * Nihon (also many awesome veggie options -- sustainability unknown)
 
 Ethiopian
