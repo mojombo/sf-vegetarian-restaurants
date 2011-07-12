@@ -127,6 +127,7 @@ New American
 * Cafe Gratitude (vegan raw food - [much] better than you'd expect)
 * Herbivore (a bit pricey, but delicious)
 * Loving Hut (vegan chain)
+* Outerlands (Menu changes every day, but they always have their incredible bread)
 
 Italian
 -------
