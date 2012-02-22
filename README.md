@@ -22,6 +22,7 @@ Mexican
 * Gracias Madre (Vegan mexican food)
 * La Palma Mexicatessen (fresh hand-made tortillas)
 * El Tonayense (amazing southwestern grilled veggie burrito. There may be gristle, but it's amazing.)
+* Roosevelt Tamale Parlor (squash enchiladas, tofu ranchero and other veggie options)
 
 Sushi
 -----
