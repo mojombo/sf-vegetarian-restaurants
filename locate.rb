@@ -20,7 +20,7 @@ readme.each_line do |line|
     json = JSON.parse(response)
     businesses = Array(json['businesses'])
 
-    locations = businesses.size == 1 ? businesses.first : businesses.select do |business|
+    locations = businesses.select do |business|
       # double check what we're looking for
       business['name'].downcase == name.strip.downcase && business['location']['city'] == 'San Francisco'
     end.map do |business|
