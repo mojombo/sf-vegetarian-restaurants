@@ -22,7 +22,7 @@ readme.each_line do |line|
 
     locations = businesses.select do |business|
       # double check what we're looking for
-      business['name'].downcase == name.strip.downcase && business['location']['city'] == 'San Francisco'
+      business['name'].downcase.include?(name.strip.downcase) && business['location']['city'] == 'San Francisco'
     end.map do |business|
       " [#{business['location']['address'].first}](#{business['url']})"
     end
